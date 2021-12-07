@@ -25,3 +25,5 @@ new_friends[5] = "Kevin"
 new_friends[15] = "Karen"
 
 puts new_friends
+puts new_friends[0]
+puts new_friends[15]
