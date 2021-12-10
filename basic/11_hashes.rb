@@ -1,5 +1,3 @@
-
-
 # hashes are like dictionaries
 # New York -> NT
 # california -> CA

@@ -8,12 +8,12 @@ phrase = "Hello world"
 
 # methods on string
 puts phrase
-puts phrase.upcase()
-puts phrase.downcase()
-puts phrase.strip()
-puts phrase.length()
+puts phrase.upcase
+puts phrase.downcase
+puts phrase.strip
+puts phrase.length
 puts phrase.include? "Hello"
-puts "programming".upcase()
+puts "programming".upcase
 
 # indexing
 puts phrase[100]  # no exception

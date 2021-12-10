@@ -15,10 +15,10 @@ puts 10 % 3
 
 
 # methods on int
-puts -20.abs()
-puts 20.1.floor()
-puts 20.1.ceil()
-puts 20.1.round()
+puts -20.abs
+puts 20.1.floor
+puts 20.1.ceil
+puts 20.1.round
 puts Math.sqrt(36)
 puts Math.log(1)
 

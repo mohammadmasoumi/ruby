@@ -1,14 +1,14 @@
 
 puts "Enter your name: "
-name = gets.chomp()
+name = gets.chomp
 
 puts "Enter your age: "
-age = gets.chomp()
+age = gets.chomp
 
 
 #               default values
 def sayhi(name="Mohammad", age="25")
-    puts ("Hello " + name + ", you are " + age)
+    puts("Hello " + name + ", you are " + age)
 end
 
 
