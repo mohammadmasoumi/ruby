@@ -3,11 +3,11 @@
 # california -> CA
 
 states = {
-    "California" => "CA",
-    "Pennsylvania" => "PA",
-    "Oregon" => "OR",
-    :Texas => "TS",
-    1 => "WS"
+  "California" => "CA",
+  "Pennsylvania" => "PA",
+  "Oregon" => "OR",
+  :Texas => "TS",
+  1 => "WS"
 }
 
 puts states["Oregon"]
